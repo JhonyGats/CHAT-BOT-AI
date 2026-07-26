@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.db
+exports/
+logs/
+build/
+bin/
+*.spec
+.DS_Store
