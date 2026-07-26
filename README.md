@@ -10,22 +10,22 @@
 - Мониторинг производительности (CPU, память)
 
 ## Установка и запуск
-1. Создайте виртуальное окружение:
+1. **Создайте виртуальное окружение:**
    
    python -m venv venv
 
-Активируйте его:
+2. **Активируйте его:**
 
 Windows: venv\Scripts\activate
 
 Linux/Mac: source venv/bin/activate
 
-Установите зависимости:
+3. **Установите зависимости:**
 
 
 pip install -r requirements.txt
 
-Запустите:
+4. **Запустите:**
 
 bash
 python src/main.py
